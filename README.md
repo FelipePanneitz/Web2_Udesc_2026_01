@@ -1,13 +1,11 @@
 <h1 align="center">WEB 2 - UDESC - 2026/01</h1>
-<div align="center"><i>Projeto Final</i><br><br>
+<div align="center"><i>Projeto final</i><br><br>
 <a href="https://github.com/FelipePanneitz/Web2_Udesc_2026_01/stargazers"><img src="https://img.shields.io/github/stars/FelipePanneitz/Web2_Udesc_2026_01" alt="Stars Badge"/></a>
 <a href="https://github.com/FelipePanneitz/Web2_Udesc_2026_01/network/members"><img src="https://img.shields.io/github/forks/FelipePanneitz/Web2_Udesc_2026_01" alt="Forks Badge"/></a>
-<a href="https://github.com/FelipePanneitz/Web2_Udesc_2026_01/pulls"><img src="https://img.shields.io/github/issues-pr/FelipePanneitz/Web2_Udesc_2026_01" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/FelipePanneitz/Web2_Udesc_2026_01/issues"><img src="https://img.shields.io/github/issues/FelipePanneitz/Web2_Udesc_2026_01" alt="Issues Badge"/></a>
 <a href="https://github.com/FelipePanneitz/Web2_Udesc_2026_01"><img src="https://komarev.com/ghpvc/?username=sof2-udesc&color=447ff7&label=views" alt="Views count Badge"/></a>
 <br><a href="https://github.com/FelipePanneitz/Web2_Udesc_2026_01" target="blank"><img src="https://img.shields.io/website?url=https%3A%2F%2Feduca-recicla.vercel.app" /></a>
 <a href="https://github.com/FelipePanneitz/Web2_Udesc_2026_01/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/FelipePanneitz/Web2_Udesc_2026_01?color=2b9348"></a>
-<a href="https://github.com/FelipePanneitz/Web2_Udesc_2026_01/blob/main/LICENSE.txt"><img src="https://img.shields.io/github/license/FelipePanneitz/Web2_Udesc_2026_01?color=2b9348" alt="License Badge"/></a>
 </div>
 
 ## 📜 Sumário
