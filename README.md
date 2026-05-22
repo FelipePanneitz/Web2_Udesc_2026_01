@@ -5,9 +5,9 @@
 <a href="https://github.com/FelipePanneitz/Web2_Udesc_2026_01/pulls"><img src="https://img.shields.io/github/issues-pr/FelipePanneitz/Web2_Udesc_2026_01" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/FelipePanneitz/Web2_Udesc_2026_01/issues"><img src="https://img.shields.io/github/issues/FelipePanneitz/Web2_Udesc_2026_01" alt="Issues Badge"/></a>
 <a href="https://github.com/FelipePanneitz/Web2_Udesc_2026_01"><img src="https://komarev.com/ghpvc/?username=sof2-udesc&color=447ff7&label=views" alt="Views count Badge"/></a>
-<br><a href="INSERIR O LINK" target="blank"><img src="https://img.shields.io/website?url=https%3A%2F%2Feduca-recicla.vercel.app" /></a>
+<br><a href="https://github.com/FelipePanneitz/Web2_Udesc_2026_01" target="blank"><img src="https://img.shields.io/website?url=https%3A%2F%2Feduca-recicla.vercel.app" /></a>
 <a href="https://github.com/FelipePanneitz/Web2_Udesc_2026_01/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/FelipePanneitz/Web2_Udesc_2026_01?color=2b9348"></a>
-<a href="https://github.com/FelipePanneitz/Web2_Udesc_2026_01/blob/main/LICENSE"><img src="https://img.shields.io/github/license/FelipePanneitz/Web2_Udesc_2026_01?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/FelipePanneitz/Web2_Udesc_2026_01/blob/main/LICENSE.txt"><img src="https://img.shields.io/github/license/FelipePanneitz/Web2_Udesc_2026_01?color=2b9348" alt="License Badge"/></a>
 </div>
 
 ## 📜 Sumário
@@ -20,12 +20,12 @@
 - [Licença](#-licença)
 
 ## 🚀 Início
-Este repositório contém o projeto final desenvolvido para a disciplina de Desenvolvimento de Aplicações para a Web 2 na UDESC. O projeto consiste em uma plataforma web projetada para hospedar, gerenciar e compartilhar trabalhos e projetos acadêmicos. O sistema oferece uma interface limpa e acessível para que estudantes e pesquisadores publiquem suas produções, promovendo o compartilhamento de conhecimento dentro da comunidade acadêmica.
+Este repositório contém o projeto final desenvolvido para a disciplina de Desenvolvimento de Aplicações para a Web 2 na UDESC. O projeto consiste em uma plataforma web projetada para hospedar, gerenciar e compartilhar trabalhos e trabalhos acadêmicos. O sistema oferece uma interface limpa e acessível para que estudantes publiquem suas produções, promovendo o compartilhamento de conhecimento dentro da comunidade acadêmica.
 
 ## 📚 Funcionalidades
 Principais recursos implementados ao longo do desenvolvimento do projeto:
 
-- Envio e hospedagem de trabalhos acadêmicos.
+- Envio e hospedagem de projetos acadêmicos.
 - Interface de usuário responsiva.
 - Organização estruturada dos dados.
 
@@ -35,7 +35,6 @@ Nenhuma instalação de software é necessária no seu computador; basta acessar
 ## 🛠️ Construído com
 - [HTML](https://en.wikipedia.org/wiki/HTML5), [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets), [JavaScript](https://en.wikipedia.org/wiki/JavaScript) e [React](https://react.dev/) - Tecnologias core utilizadas
 - [VS Code](https://code.visualstudio.com/) - Ambiente de desenvolvimento integrado (IDE)
-- [Vercel](https://vercel.com/) - Plataforma utilizada para hospedagem e deploy
 
 ## ✒️ Autores
 
