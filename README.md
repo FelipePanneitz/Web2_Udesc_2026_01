@@ -37,7 +37,7 @@ Nenhuma instalação de software é necessária no seu computador; basta acessar
 ## ✒️ Autores
 
 * **Mateus Adada** - *Desenvolvedor e documentação* - [mateusadada](https://github.com/mateusadada)
-* **XXX** - *Desenvolvedor* - [XXX](https://github.com/XXX)
+* **Vinicius Eduardo Beuther** - *Desenvolvedor* - [ViniciusBeuther](https://github.com/XXX)
 
 Você também pode ver a lista completa de [colaboradores](https://github.com/FelipePanneitz/Web2_Udesc_2026_01/network/dependencies) que participaram deste projeto.
 
