@@ -1,6 +1,0 @@
-{
-  "name": "Portal de Podcasts UDESC",
-  "description": "Portal interactivo de podcasts sobre novidades do mercado, tendências em IA e aplicações da IA na sociedade com design moderno verde e roxo.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
