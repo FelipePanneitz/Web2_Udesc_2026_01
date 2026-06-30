@@ -1,6 +1,0 @@
-{
-  "name": "Ementa UDESC",
-  "description": "Visualização e acompanhamento interativo da ementa da disciplina UDESC WEB2",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
