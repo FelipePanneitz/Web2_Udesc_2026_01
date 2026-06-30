@@ -1,6 +1,0 @@
-{
-  "name": "Portal de Vídeos UDESC",
-  "description": "Portal de vídeos educativos da disciplina UDESC/7WEB203, com design moderno em verde, roxo e branco.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
